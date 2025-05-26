@@ -16,7 +16,7 @@ export default class CreditsScene extends Phaser.Scene {
     this.madeByText = this.add.text(
       0,
       0,
-      'Created By: Maurice Murangwa, Thanks to Ourcade and Kenney',
+      'Created By: Marc Pallares, minim un 10',
       {
         fontSize: '26px',
         fill: '#fff',
